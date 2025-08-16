@@ -6,7 +6,7 @@ This is my first article on Medium, and I hope you’ll find it helpful. Some ti
 
 The computer had been left untouched in a room for over a year without being turned on. When I attempted to power it up, it seemed to start, but there was no video output on my screen. Both the GPU and motherboard had lights on, but the PC would restart itself every 10 seconds.
 
-![alt text](image1.jpg)
+![alt text](Random-tutorials/Desktop_Hardware_Troubleshooting/image1.jpg)
 
 Having quite a bit of experience with hardware troublshooting, I always check components following this list:
 - GPU (Video output source)
