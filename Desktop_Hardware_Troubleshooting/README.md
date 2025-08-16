@@ -5,9 +5,7 @@ Hello all,
 This is my first article on Medium, and I hope you’ll find it helpful. Some time ago, I wanted to build my personal home server using an old desktop computer. However, I encountered an issue getting it to work. The computer features an Intel Core i7–6700 processor, 16GB of RAM, and a GTX 1080 graphics card, which should be more than enough to handle basic server functions and run some local LLMs.
 
 The computer had been left untouched in a room for over a year without being turned on. When I attempted to power it up, it seemed to start, but there was no video output on my screen. Both the GPU and motherboard had lights on, but the PC would restart itself every 10 seconds.
-
-![alt text](https://github.com/mohanex/Random-tutorials/blob/main/Desktop_Hardware_Troubleshooting/image1.jpg)
-
+<img width="1206" height="704" alt="Image1" src="https://github.com/user-attachments/assets/d894ef6e-6d64-42ec-a3b6-c327319e948c" />
 Having quite a bit of experience with hardware troublshooting, I always check components following this list:
 - GPU (Video output source)
 - PSU + Connectors (Non-working cables)
